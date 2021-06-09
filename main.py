@@ -37,7 +37,7 @@ while True:
     imgProcessed = circle.imageProcessing(imgCopy, threshold1, threshold2)
     imgToWarp, fiducialMarkers = circle.getFiducialMarkersToWarp(imgProcessed, draw=True)
     if len(fiducialMarkers) == 4:
-        imgWarped = circle.warpImg(imgToWarp, fiducialMarkers, W*SCALE, H*SCALE)
+        imgWarped = circle.warpImg(imgToWarp, fiducialMarkers, W * SCALE, H * SCALE)
         # imgWarpedWithCircles = circle.getCircle(imgWarped, minRadius, maxRadius)
         imgPostProcessed, points = circle.getPendulumFM(imgWarped)
         imgStack = circle.stackImages(1, [frame, imgToWarp, imgPostProcessed])
