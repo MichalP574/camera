@@ -34,4 +34,6 @@ This work is devoted to present vision system development and examination for co
 *  M. J. Baker, „Maths - Issues with Relative Angles,” EuclideanSpace, [Online]. Available: https://www.euclideanspace.com/maths/algebra/vectors/angleBetween/issues/index.htm
 *  A. Rosebrock, „Increasing Raspberry Pi FPS with Python and OpenCV,” 28 December 2015. [Online]. Available: https://www.pyimagesearch.com/2015/12/28/increasing-raspberry-pi-fps-with-python-and-opencv/#pyis-cta-modal
 *  A. Rosebrock, „Increasing Raspberry Pi FPS with Python and OpenCV,” 28 December 2015. [Online]. Available: https://www.pyimagesearch.com/2015/12/28/increasing-raspberry-pi-fps-with-python-and-opencv/#pyis-cta-modal
-*  
+
+## Status
+Project is: _in progress_
